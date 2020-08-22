@@ -29,37 +29,37 @@ The page will reload if you make edits.<br />
 
 This is the home page for the application, you have to login with the credentials.
 
-![image_1](./src/images/Screenshot%20(2).png)]
+![image_1](./src/images/Screenshot%20(2).png)
 
 waiting for the server's response
 
-![image_3](./src/images/Screenshot%20(4).png)]
+![image_3](./src/images/Screenshot%20(4).png)
 
 After entering the credentials, if it's wrong. You will get a notification of it, shown in the below image.
 
-![image_2](./src/images/Screenshot%20(3).png)]
+![image_2](./src/images/Screenshot%20(3).png)
 
 If it's right, You will see a success message and will be redirected to the profile > Address page.
 
-![image_4](./src/images/Screenshot%20(5).png)]
+![image_4](./src/images/Screenshot%20(5).png)
 
-![image_5](./src/images/Screenshot%20(6).png)]
+![image_5](./src/images/Screenshot%20(6).png)
 
 Click on the add address button to add new addresses
 
-![image_6](./src/images/Screenshot%20(7).png)]
+![image_6](./src/images/Screenshot%20(7).png)
 
 If it's succesfull, you will receive a message
 
-![image_7](./src/images/Screenshot%20(8).png)]
+![image_7](./src/images/Screenshot%20(8).png)
 
 If you delete the address by clicking the delete button
 
-![image_8](./src/images/Screenshot%20(9).png)]
+![image_8](./src/images/Screenshot%20(9).png)
 
 If you edit the address by clicking the edit button
 
-![image_9](./src/images/Screenshot%20(10).png)]
+![image_9](./src/images/Screenshot%20(10).png)
 
 # Dependancies used
 
