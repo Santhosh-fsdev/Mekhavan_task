@@ -2,11 +2,21 @@
 This project was built with React and ANT Design for user interfaces.
 You can View the overall functionality of the project using the youtube link.
 
+Find the Project hosted in Netlify here [Netlify_app](https://epic-darwin-777903.netlify.app/)
+
+Click the image below or use the link [youtube_link](https://youtu.be/otJtt9dJ470)
+
 [![Watch the video](./src/images/Screenshot%20(2).png)](https://youtu.be/otJtt9dJ470) 
 
-## Available Scripts
+## To install in your system
 
-In the project directory, you can run:
+git clone the repository or donwload the zip
+
+`git clone https://github.com/Santhosh-fsdev/Mekhavan_task.git `
+
+Open it in any Code Editor
+
+run the command `npm install` in the terminal, then
 
 ### `npm start`
 
@@ -14,59 +24,51 @@ Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
-### `npm test`
+# Screeshots of the application.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+This is the home page for the application, you have to login with the credentials.
 
-### `npm run build`
+![image_1](./src/images/Screenshot%20(2).png)]
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+waiting for the server's response
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+![image_3](./src/images/Screenshot%20(4).png)]
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+After entering the credentials, if it's wrong. You will get a notification of it, shown in the below image.
 
-### `npm run eject`
+![image_2](./src/images/Screenshot%20(3).png)]
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+If it's right, You will see a success message and will be redirected to the profile > Address page.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![image_4](./src/images/Screenshot%20(5).png)]
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+![image_5](./src/images/Screenshot%20(6).png)]
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Click on the add address button to add new addresses
 
-## Learn More
+![image_6](./src/images/Screenshot%20(7).png)]
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+If it's succesfull, you will receive a message
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![image_7](./src/images/Screenshot%20(8).png)]
 
-### Code Splitting
+If you delete the address by clicking the delete button
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+![image_8](./src/images/Screenshot%20(9).png)]
 
-### Analyzing the Bundle Size
+If you edit the address by clicking the edit button
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+![image_9](./src/images/Screenshot%20(10).png)]
 
-### Making a Progressive Web App
+# Dependancies used
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+```
+    "antd": "^4.5.4",
+    "axios": "^0.19.2",
+    "react": "^16.13.1",
+    "react-router-dom": "^5.2.0"
 
-### Advanced Configuration
+```
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Support and encourage by giving this repo a Star.
