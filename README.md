@@ -2,7 +2,7 @@
 This project was built with React and ANT Design for user interfaces.
 You can View the overall functionality of the project using the youtube link.
 
-[![Watch the video](./src/images/Screenshot (2).png)](https://youtu.be/otJtt9dJ470) 
+[![Watch the video](./src/images/Screenshot%20(2).png)](https://youtu.be/otJtt9dJ470) 
 
 ## Available Scripts
 
