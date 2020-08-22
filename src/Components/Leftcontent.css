@@ -6,8 +6,6 @@
 
 @media screen and (max-width: 720px){
     .left-image > img{
-        display: block;
-        width: 100vw ;
-        height: auto;
+        display: none;
     }
 }
